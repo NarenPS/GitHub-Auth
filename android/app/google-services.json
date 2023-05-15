@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1018428956081",
+    "project_id": "github-auth-4b700",
+    "storage_bucket": "github-auth-4b700.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018428956081:android:4967c78beb0fa240b67190",
+        "android_client_info": {
+          "package_name": "com.example.githup_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018428956081-stvhtsh56ueimlfegbuehro41lu6bc75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN3wGCM0Qg-aOTUMLEbHi2pAtX5oOaYZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018428956081-stvhtsh56ueimlfegbuehro41lu6bc75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
